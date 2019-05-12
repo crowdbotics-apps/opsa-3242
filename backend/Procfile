@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT opsa_3242.wsgi:application

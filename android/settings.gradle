@@ -1,0 +1,3 @@
+rootProject.name = 'opsa_3242'
+
+include ':app'
